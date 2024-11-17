@@ -1,4 +1,4 @@
-# O mnie 🐈‍⬛✨
+# O mnie 
 
 Nazywam się **Rachel Rozy** i jestem studentką która pasjonuje się programowaniem, pisaniem oraz dekorowaniem. Moje zamiłowanie do programowania zaczęło się w podstawówce przez program RPG Maker, do którego pisałam skrypty w Ruby. 
 
